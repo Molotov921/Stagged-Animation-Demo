@@ -1,6 +1,10 @@
-# stagged_animation
+# stagged_animation_demo
 
 A new Flutter project.
+
+# Project Demo Recording
+
+https://github.com/Molotov921/Stagged-Animation-Demo/assets/106720289/8ca64947-97f3-4abc-9a4d-9a43bd51cfc6
 
 ## Getting Started
 
